@@ -1,8 +1,8 @@
-#C# Tutorial.hu mintakódok
+# C# Tutorial.hu mintakódok
 
 Ez a GIT tároló a C# Tutorial.hu (https://csharptutorial.hu) oldalon megjelenő cikkek forráskódjait tartalmazza.
 
-A kód fejlesztése Visual Studio 2015 segítségével történik. Az Community változat a https://www.visualstudio.com címről szerezhető be ingyenesen.
+A kód fejlesztése Visual Studio 2017 segítségével történik. Az Community változat a https://www.visualstudio.com címről szerezhető be ingyenesen.
 
 ## Változások
 * 2016-05-26: Első publikus kiadás kódjai (C# fejlesztés könyv néven futott még akkor a projekt)
