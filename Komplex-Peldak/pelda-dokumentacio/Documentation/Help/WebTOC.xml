@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/5626c466-0607-4d77-9db4-903fee998353.htm" />
+  <HelpTOCNode Id="385ed47b-1a72-4afe-991b-8e2c6a109690" Title="Version History" Url="html/1c9106fe-a572-4f43-95b9-1f4ec3f6ae32.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/b27fbd73-6241-4263-b5a5-ddada3b9d99a.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="166ab14a-7897-4d41-9624-d44dcb1410f8" Title="pelda_dokumentacio" Url="html/340f5242-1c0f-5d99-3f8a-49308367fca2.htm">
+    <HelpTOCNode Id="7f5c56ab-cfb6-4f07-bd98-61ca89362dd3" Title="DocExample Class" Url="html/94497c55-6d4b-aec7-c36e-a5505793a560.htm">
+      <HelpTOCNode Title="DocExample Constructor " Url="html/1fdce988-9d9b-4b22-b853-32cebeae0a5d.htm" />
+      <HelpTOCNode Id="9cb3e94f-a7f6-4f65-9edc-2da92000d4a4" Title="DocExample Methods" Url="html/4e8783e7-e0ea-d5fe-7bf1-d979ab322988.htm">
+        <HelpTOCNode Title="AddAndRound Method " Url="html/239d461b-427a-707d-c670-195a5331aeac.htm" />
+        <HelpTOCNode Title="MultipyAndRound Method " Url="html/23c1d228-df6e-48bb-d344-cefa77a4164d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

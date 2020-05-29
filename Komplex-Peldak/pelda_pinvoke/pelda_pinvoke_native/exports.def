@@ -1,0 +1,6 @@
+EXPORTS
+	GetString
+	InitFibonacci
+	DeleteFibonacci
+	GetFibonacci
+	GetStruct

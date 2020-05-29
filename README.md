@@ -1,33 +1,20 @@
-# C# Tutorial.hu mintakódok
+# Helló Világ! Helló C#!
 
-Ez a GIT tároló a C# Tutorial.hu (https://csharptutorial.hu) oldalon megjelenő cikkek forráskódjait tartalmazza.
+![header](Readme/header.jpg)
 
-A kód fejlesztése Visual Studio 2017 segítségével történik. Az Community változat a https://www.visualstudio.com címről szerezhető be ingyenesen.
+Ez a GIT tároló a C# Tutorial.hu (https://csharptutorial.hu) oldalon elérhető Helló Világ! Helló C#! könyv példaprogramjait tartalmazza.
+
+A kód fejlesztése Visual Studio 2019 segítségével történik. Az Community változat a https://www.visualstudio.com címről szerezhető be ingyenesen.
 
 ## Változások
-* 2016-05-26: Első publikus kiadás kódjai (C# fejlesztés könyv néven futott még akkor a projekt)
-* 2017-01-28: Migrálás C# Tutorial.hu formátumra, illetve újabb kódok.
-* 2017-06-29: Újabb példák
+
+* 2020-05-25 Könyvhöz tartozó kódok egyben
 
 ## Licenc
 ```
-Copyright (c) 2017 Ruzsinszki Gábor, csharptutorial.hu
+A könyvben szereplő példakódok szemléltető jellegűek. Szabadon felhasználhatóak más szoftver készítésének alapjául. A kódok felhasználása esetén nem kell megjelölni az eredeti szerzőket.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+A példakódokat Ruzsinszki Gábor és a Lábadi Henrik "ahogy van" szolgáltatják és minden nyílt vagy burkolt garanciajogot visszautasítanak vele kapcsolatban – beleértve, de nem kizárólagosan korlátozva az eladhatóságra, vagy egy adott célra való alkalmazhatóságra vonatkozó garanciát.
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
+Ruzsinszki Gábor és Lábadi Henrik nem vonhatók semmilyen szintű felelősségre -, melyet akár szerződésben rendezett, vagy szerződésen kívüli felelősségviszony alapján állapítanának meg (beleértve a hanyagság vagy más miatt kialakuló viszonyt is), semmilyen a szoftver használatából eredő esemény kapcsán mely közvetlen, közvetett, véletlenszerű, különleges, példátlan vagy szükségszerűen bekövetkező kárhoz vezet (beleértve a károk közé de nem kizárólagosan korlátozva azt a helyettesítő termékek vagy szolgáltatások beszerzésére, üzemkiesésre, adatvesztésre, elmaradt haszonra, vagy üzletmenet megszakadására) még akkor sem, ha a károsodás lehetősége előre látható volt.
 ```

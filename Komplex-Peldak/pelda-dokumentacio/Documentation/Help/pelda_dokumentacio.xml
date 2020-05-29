@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>pelda_dokumentacio</name>
+  </assembly>
+  <members>
+    <member name="T:pelda_dokumentacio.DocExample">
+      <summary>
+            A sample class for documentation generation
+            </summary>
+    </member>
+    <member name="M:pelda_dokumentacio.DocExample.#ctor">
+      <summary>
+        <markup>
+          <include item="SMCAutoDocConstructor">
+            <parameter>pelda_dokumentacio.DocExample</parameter>
+          </include>
+        </markup>
+      </summary>
+    </member>
+    <member name="M:pelda_dokumentacio.DocExample.AddAndRound(System.Double,System.Double)">
+      <summary>
+            Add two numbers and round the result to 4 digits
+            </summary>
+      <param name="n1">number 1</param>
+      <param name="n2">number 2</param>
+      <returns>sum of n1 and n2 rounded to 4 digits</returns>
+    </member>
+    <member name="M:pelda_dokumentacio.DocExample.MultipyAndRound(System.Double,System.Double)">
+      <summary>
+            Multiplies two numbers and round the result to 4 digits
+            </summary>
+      <param name="n1">number 1</param>
+      <param name="n2">number 2</param>
+      <returns>multiple of n1 and n2 rounded to 4 digits</returns>
+    </member>
+  </members>
+</doc>

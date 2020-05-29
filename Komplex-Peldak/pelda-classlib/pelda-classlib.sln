@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pelda-classlib", "pelda-classlib\pelda-classlib.csproj", "{A481C651-56FF-4759-B4F4-4695079A1150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pelda.Lib", "Pelda.Lib\Pelda.Lib.csproj", "{FCAF58C9-BDCC-47CF-9514-A251515BA04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A481C651-56FF-4759-B4F4-4695079A1150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A481C651-56FF-4759-B4F4-4695079A1150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A481C651-56FF-4759-B4F4-4695079A1150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A481C651-56FF-4759-B4F4-4695079A1150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAF58C9-BDCC-47CF-9514-A251515BA04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAF58C9-BDCC-47CF-9514-A251515BA04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAF58C9-BDCC-47CF-9514-A251515BA04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAF58C9-BDCC-47CF-9514-A251515BA04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90E8DFCF-8D5A-441A-ACD6-EA53B6455395}
+	EndGlobalSection
+EndGlobal
