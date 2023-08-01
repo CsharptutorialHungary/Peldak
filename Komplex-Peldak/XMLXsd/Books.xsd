@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="books">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="book" minOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="author"
+                          type="xs:string" 
+                          minOccurs="1" 
+                          maxOccurs="1" />
+              <xs:element name="publicationYear"
+                          type="xs:gYear" minOccurs="1" 
+                          maxOccurs="1"/>
+            </xs:sequence>
+            <xs:attribute name="title" 
+                          type="xs:string" 
+                          use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

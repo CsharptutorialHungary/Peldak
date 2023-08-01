@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="books.xsd">
+  <book title="Book 1">
+    <author>Author 1</author>
+    <publicationYear>2020</publicationYear>
+  </book>
+  <book title="Book 2">
+    <author>Author 2</author>
+    <publicationYear>2019</publicationYear>
+  </book>
+</books>

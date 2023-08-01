@@ -2,12 +2,12 @@
 
 internal interface IOperationStrategy
 {
-    double Calculatge(double x, double y);
+    double Calculate(double x, double y);
 }
 
 internal class AddStrategy : IOperationStrategy
 {
-    public double Calculatge(double x, double y)
+    public double Calculate(double x, double y)
     {
         return x + y;
     }
@@ -15,7 +15,7 @@ internal class AddStrategy : IOperationStrategy
 
 internal class SubtractStrategy : IOperationStrategy
 {
-    public double Calculatge(double x, double y)
+    public double Calculate(double x, double y)
     {
         return x - y;
     }
@@ -23,7 +23,7 @@ internal class SubtractStrategy : IOperationStrategy
 
 internal class MultiplyStrategy : IOperationStrategy
 {
-    public double Calculatge(double x, double y)
+    public double Calculate(double x, double y)
     {
         return x * y;
     }
@@ -31,7 +31,7 @@ internal class MultiplyStrategy : IOperationStrategy
 
 internal class DivideStrategy : IOperationStrategy
 {
-    public double Calculatge(double x, double y)
+    public double Calculate(double x, double y)
     {
         return x / y;
     }
@@ -67,6 +67,6 @@ public class CalculatorContext
         if (_strategy == null)
             throw new InvalidOperationException("No strategy has been set");
 
-        return _strategy.Calculatge(x, y);
+        return _strategy.Calculate(x, y);
     }
 }
